@@ -1,0 +1,45 @@
+/*
+ * Site : http:www.smarttutorials.net
+ * Author :muni
+ * 
+ */
+
+header{
+	background: #014568;
+	height: 70px;
+	color:#fff;
+}
+a{text-decoration: none;color: #fff;}
+header p{padding-top:20px;}
+footer{
+	background: #014568;
+	height: 100px;
+	color:#fff;
+}
+footer p{padding-top:50px;}
+.image{
+	padding-top:10%;
+	height: 453px;
+}
+.intro{
+	margin:110px 0px 150px 70px;
+}
+.question{height: 403px;}
+.result-logo{margin-left: 42%;margin-top:1.6%;}
+.result-logo1{margin-left: 55%;}
+.result-container{margin-left: 40%;margin-top:1%; color:#684B68;}
+.logout{padding-top:100px;}
+.next{margin-left:200px;}
+.answer{color:#036CA5;font-weight: 300;font-size: larger; }
+.result{height: 452px;}
+#timer{ float:right;padding: 5px 20px 0 0;}
+
+.image-logo {
+  height: 10px;
+  margin: 0 auto;
+  width: 45%;
+  padding-top: 48px;
+}
+.text-center > span {
+  font-size: 20px;
+}
